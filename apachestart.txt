@@ -1,0 +1,1 @@
+mod_wsgi-express start-server --working-directory /app/cs4501-project1 --url-alias /static /app/cs4501-project1/stuff/static /app/cs4501-project1/stuff/wsgi.py & [1] 73
