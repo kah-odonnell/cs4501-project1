@@ -60,9 +60,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         
-	'NAME': cs4501,
+	'NAME': 'cs4501',
    	'USER': 'www',
-	'PASSWORD': notpassword,
+	'PASSWORD': 'notpassword',
 	'HOST': 'db', 
 	}
 }
